@@ -10,6 +10,11 @@ JSCodeInspector is a Python tool designed to extract important information from 
 - Detect version information used in the code.
 - Extract URLs and API keys, if present.
 
+
+![Screenshot_2023-08-04_17_19_43](https://github.com/Aniruddhpathak404/JSCodeInspector/assets/101852962/8409d479-8958-493d-a37c-642981b9b6f8)
+![Screenshot_2023-08-04_17_20_14](https://github.com/Aniruddhpathak404/JSCodeInspector/assets/101852962/dc1862b9-50fb-4a98-b01f-ddd31996afc3)
+
+
 ## Requirements
 
 To use the JSCodeInspector tool, you need to have the following libraries installed:
@@ -44,17 +49,11 @@ python JSCodeInspector.py
 
 
 
-
-![Screenshot_2023-08-04_17_19_51](https://github.com/Aniruddhpathak404/JSCodeInspector/assets/101852962/e98dedd4-e46c-480b-90bb-c56602fbc350)
-
-
-![Screenshot_2023-08-04_17_20_14](https://github.com/Aniruddhpathak404/JSCodeInspector/assets/101852962/459582ad-313f-4296-8400-21f049e9130f)
-
-
-
 Legal Disclaimer
 
 Please note that using this tool on any JavaScript file without proper authorization may be illegal and unethical. Always ensure you have explicit permission from the file owner to analyze the JavaScript code. The tool is provided for educational and ethical purposes only.
 Contributions
 
 Contributions to the JSCodeInspector tool are welcome! If you find any bugs or want to add new features, feel free to create a pull request. For major changes, please open an issue first to discuss the proposed changes.
+
+
