@@ -27,14 +27,14 @@ Usage
 
     Clone the repository to your local machine:
 
-bash
+
 
 git clone https://github.com/yourusername/JSCodeInspector.git
 cd JSCodeInspector
 
     Run the script JSCodeInspector.py:
 
-bash
+
 
 python JSCodeInspector.py
 
