@@ -42,6 +42,14 @@ python JSCodeInspector.py
 
     After providing the URL, the script will fetch the JavaScript code, inspect it, and display the extracted information, including function names, variable names, usernames, passwords, version information, URLs, and API keys.
 
+
+![Screenshot_2023-08-04_17_19_51](https://github.com/Aniruddhpathak404/JSCodeInspector/assets/101852962/45d1631c-13ca-4603-a4cd-fb9b21ae26c2)
+
+
+![Screenshot_2023-08-04_17_20_14](https://github.com/Aniruddhpathak404/JSCodeInspector/assets/101852962/61cc2aea-6294-48e9-9342-546571393250)
+
+
+
 Legal Disclaimer
 
 Please note that using this tool on any JavaScript file without proper authorization may be illegal and unethical. Always ensure you have explicit permission from the file owner to analyze the JavaScript code. The tool is provided for educational and ethical purposes only.
