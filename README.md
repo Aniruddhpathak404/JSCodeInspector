@@ -12,6 +12,10 @@ JSCodeInspector is a Python tool designed to extract important information from 
 
 
 ![Screenshot_2023-08-04_17_19_43](https://github.com/Aniruddhpathak404/JSCodeInspector/assets/101852962/8409d479-8958-493d-a37c-642981b9b6f8)
+
+
+
+
 ![Screenshot_2023-08-04_17_20_14](https://github.com/Aniruddhpathak404/JSCodeInspector/assets/101852962/dc1862b9-50fb-4a98-b01f-ddd31996afc3)
 
 
